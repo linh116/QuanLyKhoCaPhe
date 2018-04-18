@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="QuanLyKho:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/QuanLyKho_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="QuanLyKho/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="QuanLyKho" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
